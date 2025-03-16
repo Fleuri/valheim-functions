@@ -1,2 +1,2 @@
-.env.yaml
+src/cloud_functions/.env.yaml
 .envrc
